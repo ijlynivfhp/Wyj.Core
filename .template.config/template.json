@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "ijlynivfhp", 
+    "classifications": [ "Web/WebAPI" ], 
+    "name": "Wyj.Core", 
+    "identity": "Wyj.Core.Template", 
+    "shortName": "WyjCore",
+    "tags": {
+      "language": "C#" ,
+      "type":"project"
+    },
+    "sourceName": "Wyj.Core",  
+    "preferNameDirectory": true  
+}

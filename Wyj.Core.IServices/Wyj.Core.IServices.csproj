@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Wyj.Core.Common\Wyj.Core.Common.csproj" />
+    <ProjectReference Include="..\Wyj.Core.Model\Wyj.Core.Model.csproj" />
+  </ItemGroup>
+
+</Project>
